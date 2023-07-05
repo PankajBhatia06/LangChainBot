@@ -1,0 +1,6 @@
+atlassian-python-api
+openai
+langchain
+streamlit
+lxml
+python-certifi-win32

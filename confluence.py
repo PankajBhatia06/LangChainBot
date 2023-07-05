@@ -1,3 +1,4 @@
+import streamlit as st
 from langchain.document_loaders import ConfluenceLoader
 
 loader = ConfluenceLoader(url="", token="")
