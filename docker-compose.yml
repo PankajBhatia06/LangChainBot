@@ -7,4 +7,4 @@ services:
          - 8501:8501
          - 5678:5678
       volumes:
-         - .:/code
+         - C://Projects//LangChainBot
