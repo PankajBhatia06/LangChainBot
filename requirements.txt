@@ -6,3 +6,4 @@ lxml
 python-certifi-win32
 beautifulsoup4
 tiktoken
+configparser

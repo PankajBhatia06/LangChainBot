@@ -14,7 +14,7 @@ config.set("openAI","openAIKey","openAIkeyValue")
 config.add_section("confulenceAPI")
 
 #add key pair in confulenceAPI
-config.set("confulenceAPI","apiKey","https://space.tobdarwin.com/")
+config.set("confulenceAPI","apiKey","")
 config.set("confulenceAPI","apiToken","")
 config.set("confulenceAPI","apiSpace","IWG")
 
