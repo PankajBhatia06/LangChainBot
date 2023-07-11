@@ -1,4 +1,8 @@
-FROM python:3.11-slim
+# MACOS
+# FROM python:3.11-slim
+
+# WINDOWS
+FROM python:3.11-windowsservercore
 
 WORKDIR /code
 
