@@ -1,0 +1,10 @@
+services:
+   app:
+      build: .
+      container_name: python-server
+      command: streamlit run src/app.py
+      ports:
+         - 8501:8501
+         - 5678:5678
+      volumes:
+         - C://Projects//LangChainBot
